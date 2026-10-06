@@ -1,0 +1,170 @@
+{
+  "Investigator": {
+    "file": "investigator.png",
+    "page": "https://wiki.bloodontheclocktower.com/Investigator",
+    "image": "https://wiki.bloodontheclocktower.com/images/a/ad/Icon_investigator.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "5351f4714763dd529ab983fe41620419ff962480304d9a5ce233ce69af22b494"
+  },
+  "Librarian": {
+    "file": "librarian.png",
+    "page": "https://wiki.bloodontheclocktower.com/Librarian",
+    "image": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_librarian.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "b6c95b5be70b0e0be764f2c61bf62dad54ce94752dd5c17124ea9ac0836c3bdb"
+  },
+  "Shugenja": {
+    "file": "shugenja.png",
+    "page": "https://wiki.bloodontheclocktower.com/Shugenja",
+    "image": "https://wiki.bloodontheclocktower.com/images/1/11/Icon_shugenja.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "68b05cf7fb22155cd81fe52a66bbd3688c14a7d916fc77cdff6b34bf850105bd"
+  },
+  "Empath": {
+    "file": "empath.png",
+    "page": "https://wiki.bloodontheclocktower.com/Empath",
+    "image": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_empath.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "f9b7ed3fd0889d798366ec3a0196a1e73483c24766735857bceb8d71bcde7844"
+  },
+  "Dreamer": {
+    "file": "dreamer.png",
+    "page": "https://wiki.bloodontheclocktower.com/Dreamer",
+    "image": "https://wiki.bloodontheclocktower.com/images/f/f2/Icon_dreamer.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "ca380302d7abc43e5b91ab941722cb9495492c9e11da3505d23665c6690c1611"
+  },
+  "Town Crier": {
+    "file": "towncrier.png",
+    "page": "https://wiki.bloodontheclocktower.com/Town_Crier",
+    "image": "https://wiki.bloodontheclocktower.com/images/e/ef/Icon_towncrier.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "a5e13cc96ede4ea3e8aa207ac190991eee4e4d95a41ff5d530f783f653bd5111"
+  },
+  "Gossip": {
+    "file": "gossip.png",
+    "page": "https://wiki.bloodontheclocktower.com/Gossip",
+    "image": "https://wiki.bloodontheclocktower.com/images/c/c7/Icon_gossip.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "7aab8f4c76eaa454f6cb1151e0eb1d866a1e9319f1aa44bed335ec7aadb5c7f2"
+  },
+  "Savant": {
+    "file": "savant.png",
+    "page": "https://wiki.bloodontheclocktower.com/Savant",
+    "image": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_savant.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "8fe993f8dc37899c0a12ce04b77a240b66eb84c5105ca096933e1306a842ada1"
+  },
+  "Seamstress": {
+    "file": "seamstress.png",
+    "page": "https://wiki.bloodontheclocktower.com/Seamstress",
+    "image": "https://wiki.bloodontheclocktower.com/images/5/53/Icon_seamstress.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "6d01e565fd12181fa43eca34921f720bc426c4cbd68df2da210c2e964ded549c"
+  },
+  "Artist": {
+    "file": "artist.png",
+    "page": "https://wiki.bloodontheclocktower.com/Artist",
+    "image": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_artist.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "dd16cad672c2384801f495644500867b42285b31e39083d7529ad058c77277a2"
+  },
+  "Cannibal": {
+    "file": "cannibal.png",
+    "page": "https://wiki.bloodontheclocktower.com/Cannibal",
+    "image": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_cannibal.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "690dd551b0359a04a3bf256ce200ba1566b0117282042d18ef4c85ea3483f764"
+  },
+  "Farmer": {
+    "file": "farmer.png",
+    "page": "https://wiki.bloodontheclocktower.com/Farmer",
+    "image": "https://wiki.bloodontheclocktower.com/images/f/fe/Icon_farmer.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "fc14bd7fd06535228c393f7a39995dbbcfd9bd5703a0934b62df20680c5d128f"
+  },
+  "Sage": {
+    "file": "sage.png",
+    "page": "https://wiki.bloodontheclocktower.com/Sage",
+    "image": "https://wiki.bloodontheclocktower.com/images/a/a0/Icon_sage.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "a40c5fe4e5cf95d3f4c85ebc6bbc5c32a7a4d58193a639d3738c4a5472cd1f22"
+  },
+  "Hermit": {
+    "file": "hermit.png",
+    "page": "https://wiki.bloodontheclocktower.com/Hermit",
+    "image": "https://wiki.bloodontheclocktower.com/images/b/b4/Icon_hermit.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "cd5b3548f3915810b80790e12270f4b3778527f7e16c25291f06d59057908f71"
+  },
+  "Klutz": {
+    "file": "klutz.png",
+    "page": "https://wiki.bloodontheclocktower.com/Klutz",
+    "image": "https://wiki.bloodontheclocktower.com/images/b/bc/Icon_klutz.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "8e8887e6dc498d809e242698ce31151e6603448fb07e6bf8a03692d9133e1787"
+  },
+  "Drunk": {
+    "file": "drunk.png",
+    "page": "https://wiki.bloodontheclocktower.com/Drunk",
+    "image": "https://wiki.bloodontheclocktower.com/images/4/4a/Icon_drunk.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "714d0ba6e0ed151c3c88324b1ff15d343905a89befbec1c5ff45495ca87fc76a"
+  },
+  "Witch": {
+    "file": "witch.png",
+    "page": "https://wiki.bloodontheclocktower.com/Witch",
+    "image": "https://wiki.bloodontheclocktower.com/images/7/7b/Icon_witch.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "ae4b459e8950f70a7ca933b7b02af0f3f936f0176fbcde13439c6d9e6dc70095"
+  },
+  "Assassin": {
+    "file": "assassin.png",
+    "page": "https://wiki.bloodontheclocktower.com/Assassin",
+    "image": "https://wiki.bloodontheclocktower.com/images/4/49/Icon_assassin.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "68a40877ef0d47d867fd5d8773172f68124c9a83443ce811cc5af81ee2839f35"
+  },
+  "Scarlet Woman": {
+    "file": "scarletwoman.png",
+    "page": "https://wiki.bloodontheclocktower.com/Scarlet_Woman",
+    "image": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_scarletwoman.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "f3a61289712ecc0784aaf342a9c5afa54ee08a4b15b4cfc5030d9e0596666f02"
+  },
+  "Organ Grinder": {
+    "file": "organgrinder.png",
+    "page": "https://wiki.bloodontheclocktower.com/Organ_Grinder",
+    "image": "https://wiki.bloodontheclocktower.com/images/6/61/Icon_organgrinder.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "8df29f98d4f8b5ecfb133ebbe14a88e55fbd5117415b6df8171ff9e7875bd592"
+  },
+  "Vortox": {
+    "file": "vortox.png",
+    "page": "https://wiki.bloodontheclocktower.com/Vortox",
+    "image": "https://wiki.bloodontheclocktower.com/images/8/89/Icon_vortox.png",
+    "width": 591,
+    "height": 591,
+    "sha256": "8701d1e854de22286405a0f73d792b0514be86cae2f580af94265ea6be11829c"
+  }
+}

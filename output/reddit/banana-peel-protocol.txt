@@ -1,0 +1,41 @@
+# The Banana Peel Protocol
+
+*by MeJosh*
+
+Designed for the Hermit's release, The Banana Peel Protocol asks: if the Hermit were always the only Outsider in play, what is the most interesting and amusing combination of abilities? With the Drunk and Klutz abilities, the Hermit thinks they are a Townsfolk but must choose a player when they die. Every apparent Townsfolk must therefore make a Klutz pick when they die; only the real Hermit's pick matters. Choose wisely, and be careful not to slip!
+
+## The Evil Team
+
+The Vortox being the sole Demon on the script forces all Townsfolk information to be false. Some roles can simply reverse it, while other roles like the Dreamer and Sage play very differently. Meanwhile, the Witch, Assassin, and Organ Grinder add unexpected deaths and Klutz picks, while Scarlet Woman protects the exposed Vortox. Minions must carefully choose between using their abilities early and revealing the evil team's composition, or saving them for the right moment.
+
+## How the Characters Play
+
+**Hermit:** Has a Townsfolk token but is an Outsider, so the Vortox does not affect their information. True information can hint that they are the Hermit. Use that sparingly; as with the Drunk, their information should generally hinder or confuse good.
+
+**Function as normal:** Gossip, Cannibal, Farmer.
+
+**Reversed information:** Shugenja, Town Crier, Seamstress, Artist.
+
+The other Townsfolk have some bigger changes, with a few tips for running them:
+
+- **Investigator:** Learns two players who cannot be the named Minion. Use this to rule out Witch, Organ Grinder, or Scarlet Woman candidates. You can show an actual Minion with a different Minion name that town can work out is absent.
+
+- **Librarian:** With only one Outsider intended in play, learns two players who are not the Hermit.
+
+- **Empath:** Acts like a reusable Seamstress for their living neighbors: learning a 1 means they are the same alignment; 0 or 2 means different alignments.
+
+- **Dreamer:** Learns two characters the chosen player is not. Showing Hermit rules out a Hermit candidate; showing an evil character likely in play rules out that Demon or Minion. Use the choices to challenge an evil bluff or build trust by disproving a good player's bluff.
+
+- **Savant:** Both statements must be false, making this a stronger ability than usual. Balance with weaker statements or a deliberately unhelpful one, such as "You are the Vortox."
+
+- **Sage:** If killed by the Demon, learns two players who are not the Demon: effectively a late-game Knight. A Gossip death can also help build trust in the Gossip if town does not suspect an Assassin.
+
+## Characters on the Script
+
+**Townsfolk:** Investigator, Librarian, Shugenja, Empath, Dreamer, Town Crier, Gossip, Savant, Seamstress, Artist, Cannibal, Farmer, Sage.
+
+**Outsiders:** Hermit, Klutz, Drunk.
+
+**Minions:** Witch, Assassin, Scarlet Woman, Organ Grinder.
+
+**Demon:** Vortox.
